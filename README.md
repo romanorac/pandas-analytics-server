@@ -3,6 +3,8 @@
 pandas-analytics-server is an open source project that simplifies connecting
 pandas to a realtime data feed, testing hypothesis and visualizing results in a web browser.
 
+Read more about the project: [pandas analytics server](https://towardsdatascience.com/pandas-analytics-server-d9abceec888b).
+
 ## Instalation
 
 ```
