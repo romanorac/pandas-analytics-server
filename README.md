@@ -33,3 +33,14 @@ Make sure you are in folder `/home/ec2-user/pandas-analytics-server/pandas-analy
 Run the server with: `python app.py` for development.
 
 Use gunicorn in production: `gunicorn -b :5000 app:app`.
+
+
+## Dockerized version
+
+Alternatively you can run the service using docker.
+
+```shell
+docker-compose up -d
+```
+
+Navigate to http://localhost:5000
